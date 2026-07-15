@@ -1,4 +1,5 @@
 
+
     // --- 1. PRODUCT DATA WITH PERFECT CORRESPONDING UNSPLASH IMAGES ---
     const products = [
       // ১. চাল ও ডাল (৬টি আইটেম)
@@ -166,7 +167,7 @@
         category: "veg",
         price: 25,
         unit: "১ আঁটি",
-        image: "https://images.unsplash.com/photo-1550302445-611328e7ebc7?auto=format&fit=crop&q=80&w=300"
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLAX4kKmCbIZA6o82R7KQv8uQAmEFXLslHe4ESlYZb0A&s=300"
       },
       {
         id: 21,
@@ -174,7 +175,7 @@
         category: "veg",
         price: 60,
         unit: "১ কেজি",
-        image: "https://images.unsplash.com/photo-1628556214155-7f15b3c43be9?auto=format&fit=crop&q=80&w=300"
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-uqY5QfQ1-WHXr6uJvv9XjfF4TwHgnzowiT0TNbysIQ&s=10"
       },
       {
         id: 22,
@@ -198,15 +199,15 @@
         category: "veg",
         price: 40,
         unit: "১ ফালি",
-        image: "https://images.unsplash.com/photo-1506806732259-39c2d0268443?auto=format&fit=crop&q=80&w=300"
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq-GShHw-m0PnXrEbiTNjKoGfQyJdLhquQHD_prrvgsA&s=300"
       },
       {
         id: 25,
-        name: "গোল আলু",
+        name: " করলা",
         category: "veg",
         price: 40,
         unit: "১ কেজি",
-        image: "https://images.unsplash.com/photo-1518977676601-b53f82aba655?auto=format&fit=crop&q=80&w=300"
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyNcgDoU5txVjqK6P3_TbVniRHSgs7sUUPv0pC6YPBqQ&s=300"
       },
 
       // ৫. ফল (৬টি আইটেম)
@@ -216,7 +217,7 @@
         category: "fruits",
         price: 270,
         unit: "১ কেজি",
-        image: "https://images.unsplash.com/photo-1619546813926-a78fa6372cd2?auto=format&fit=crop&q=80&w=300"
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXOKzJp2m9ch2Gl_MmwlhND--QT5bVakwpnFl33Ywrng&s=300"
       },
       {
         id: 27,
@@ -224,11 +225,11 @@
         category: "fruits",
         price: 380,
         unit: "১ কেজি",
-        image: "https://images.unsplash.com/photo-1537084642907-629340c7e5a4?auto=format&fit=crop&q=80&w=300"
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRge1os4RK-d7RIQY4yeIoke2audOadFXXpFzdAoVAVMQ&s=300"
       },
       {
         id: 28,
-        name: "সবরি কলা",
+        name: " কলা",
         category: "fruits",
         price: 90,
         unit: "১ ডজন",
@@ -240,7 +241,7 @@
         category: "fruits",
         price: 650,
         unit: "১ কেজি",
-        image: "https://images.unsplash.com/photo-1582979512210-99b6a53386f9?auto=format&fit=crop&q=80&w=300"
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVM6S6bwC3Pds46Yr0AIAY5HxyP-e1IHi8EoDaJE5zdQ&s=300"
       },
       {
         id: 30,
@@ -256,7 +257,7 @@
         category: "fruits",
         price: 120,
         unit: "১ কেজি",
-        image: "https://images.unsplash.com/photo-1528825871115-3581a5387919?auto=format&fit=crop&q=80&w=300"
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqdvwrOvBNwF8cJXY8RaKHL-nWyaPw6zAMhYm0ilQvVg&s=10"
       }
     ];
 
